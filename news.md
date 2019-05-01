@@ -3,6 +3,12 @@ layout: page
 title: News
 ---
 
+## 1st May 2018
+
+Applications are invited for a full-time Postdoctoral Research Assistant in Statistical and Population Genetics, funded by Wellcome. Reporting to Professor Simon Myers and Dr Garrett Hellenthal, the post is fixed-term until 6 October 2020, there is a possibility of extension if appropriate. It will involve working within a collaborative group of leading researchers based in Oxford, UCL, and elsewhere. <br/>
+
+Closing date: 10th June 2019, Full details: [https://www.recruit.ox.ac.uk/pls/hrisliverecruit/erq_jobspec_details_form.jobspec?p_id=140617](here).
+
 ## 4th Feburary 2019
 Clare's paper on "Patterns of genetic differentiation and the footprints of historical migrations in the Iberian Peninsula" was published in [Nature Communications](https://www.nature.com/articles/s41467-018-08272-w).
 
