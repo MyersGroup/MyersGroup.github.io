@@ -4,7 +4,7 @@ title: News
 ---
 
 ## 31st May 2019
-Congratulations to Robbie, who completed his DPhil in our group, for his appointment as Associate Professorship at the University of Oxford! [Announcement on Twitter](https://twitter.com/robbie_stats/status/1134286959508152320).
+Congratulations to Robbie, who completed his DPhil in our group, for his appointment as Associate Professor at the University of Oxford! [Announcement on Twitter](https://twitter.com/robbie_stats/status/1134286959508152320).
 
 ## 23rd May 2019
 Mike's paper on Fine-Scale Inference of Ancestry Segments Without Prior Knowledge of Admixing Groups was published in [Genetics](https://doi.org/10.1534/genetics.119.302139).
