@@ -7,19 +7,22 @@ More publications can be found on [Google Scholar](https://scholar.google.co.uk/
 
 ## Preprints
 
+### A method for genome-wide genealogy estimation for thousands of samples
+Leo Speidel, Marie Forest, Sinan Shi, Simon Myers [https://doi.org/10.1101/550558](https://doi.org/10.1101/550558)
+
 ### A high-resolution map of non-crossover events reveals impacts of genetic diversity on mammalian meiotic recombination
 Ran Li, Emmanuelle Bitoun, Nicolas Altemose, Robert W Davies, Benjamin Davies, Simon R Myers [https://doi.org/10.1101/428987](https://doi.org/10.1101/428987)
 
 ### Unified single-cell analysis of testis gene regulation and pathology in 5 mouse strains
-Min Jung, Daniel Wells, Janette Rusch, Suhaira Ahmed, Jonathan Marchini, Simon Myers, Donald Conrad [https://doi.org/10.1101/393769](https://doi.org/10.1101/393769)
-
-### Fine-scale Inference of Ancestry Segments without Prior Knowledge of Admixing Groups
-Michael Salter-Townshend, Simon Myers [https://doi.org/10.1101/376137](https://doi.org/10.1101/376137)
-
-### Patterns of genetic differentiation and the footprints of historical migrations in the Iberian Peninsula
-Clare Bycroft, Fernández-Rozadilla, Clara Ruiz-Ponte, Iéns Quintela-García, Ángel Carracedo, Peter Donnelly, Simon Myers [https://doi.org/10.1101/250191](https://doi.org/10.1101/250191)
+Min Jung*, Daniel Wells*, Janette Rusch, Suhaira Ahmed, Jonathan Marchini, Simon Myers, Donald Conrad [https://doi.org/10.1101/393769](https://doi.org/10.1101/393769)
 
 ## Publications
+
+## Fine-Scale Inference of Ancestry Segments Without Prior Knowledge of Admixing Groups
+Michael Salter-Townshend, Simon Myers [https://doi.org/10.1534/genetics.119.302139](https://doi.org/10.1534/genetics.119.302139)
+
+### Patterns of genetic differentiation and the footprints of historical migrations in the Iberian Peninsula
+Clare Bycroft, Fernández-Rozadilla, Clara Ruiz-Ponte, Iéns Quintela-García, Ángel Carracedo, Peter Donnelly, Simon Myers [https://doi.org/10.1038/s41467-018-08272-w](https://doi.org/10.1038/s41467-018-08272-w)
 
 ### A map of human PRDM9 binding provides evidence for novel behaviors of PRDM9 and other zinc-finger proteins in meiosis.
 Altemose N, Noor N, Bitoun E, Tumian A, Imbeault M, Chapman JR, Aricescu AR, Myers SR in Elife [https://doi.org/10.7554/eLife.28383](https://doi.org/10.7554/eLife.28383)

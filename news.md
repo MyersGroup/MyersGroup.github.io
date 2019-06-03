@@ -3,11 +3,16 @@ layout: page
 title: News
 ---
 
-## 1st May 2018
+## 23rd May 2019
+Mike's paper on Fine-Scale Inference of Ancestry Segments Without Prior Knowledge of Admixing Groups was published in [Genetics](https://doi.org/10.1534/genetics.119.302139).
 
+## 1st May 2019
 Applications are invited for a full-time Postdoctoral Research Assistant in Statistical and Population Genetics, funded by Wellcome. Reporting to Professor Simon Myers and Dr Garrett Hellenthal, the post is fixed-term until 6 October 2020, there is a possibility of extension if appropriate. It will involve working within a collaborative group of leading researchers based in Oxford, UCL, and elsewhere. <br/>
 
 Closing date: 10th June 2019, Full details: [here](https://www.recruit.ox.ac.uk/pls/hrisliverecruit/erq_jobspec_details_form.jobspec?p_id=140617).
+
+## 14th February 2019
+Our paper on genome-wide genealogy estimation is now avaliable on bioRxiv. [https://doi.org/10.1101/550558](https://doi.org/10.1101/550558)
 
 ## 4th Feburary 2019
 Clare's paper on "Patterns of genetic differentiation and the footprints of historical migrations in the Iberian Peninsula" was published in [Nature Communications](https://www.nature.com/articles/s41467-018-08272-w).
@@ -21,11 +26,9 @@ Leo and Daniel both gave talks at the [ProbGen](http://meetings.cshl.edu/Probabi
 Our paper on non-crossover events is now avaliable on bioRxiv. [https://doi.org/10.1101/428987](https://doi.org/10.1101/428987)
 
 ## 12th September 2018
-
 Simon will be giving a keynote presentation at the [The Students and Postdocs Meiosis Workshop](https://congress.igh.cnrs.fr/PDSM2018/) in Montpellier, France on the 12th of September.
 
 ## 22nd August 2018
-
 Postdoc opportunity in statistical and population genetics at University of Oxford.<br/>
 Closing date: 17th September 2018
 
