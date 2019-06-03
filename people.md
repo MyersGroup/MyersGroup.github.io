@@ -164,7 +164,7 @@ Dr Afidalina Tumian completed her D.Phil on the topic of [“The Evolution of Re
 
 Dr Nudrat Noor completed her D.Phil on the topic of [“Molecular Mechanisms of Recombination Hotspots in Humans”](https://ora.ox.ac.uk/objects/uuid:dd26a44a-e190-42e3-b90f-d00269f8a7b4) (2010-2013). She is now a Postdoctoral Fellow at Harvard T.H. Chan School of Public Health.
 
-## [Dr Anjali Gupta Hinch:](http://www.well.ox.ac.uk/anjali-gupta-hinch)
+## [Dr Anjali Gupta Hinch:](https://www.well.ox.ac.uk/people/anjali)
 
 <span class="image left"><img src="images/anjali.jpeg" /></span>
 
