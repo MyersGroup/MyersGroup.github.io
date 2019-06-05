@@ -3,6 +3,9 @@ layout: page
 title: News
 ---
 
+## 17th June 2019
+Simon is giving a talk at ESHG: ["Genetic diversity and its unexpected impacts on recombination, genome evolution, speciation and sterility in mammals"](https://www.abstractsonline.com/pp8/#!/7874/presentation/54)
+
 ## 31st May 2019
 Congratulations to Robbie, who completed his DPhil in our group, for his appointment as Associate Professor at the University of Oxford! [Announcement on Twitter](https://twitter.com/robbie_stats/status/1134286959508152320).
 
