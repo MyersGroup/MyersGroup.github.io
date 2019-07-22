@@ -3,6 +3,9 @@ layout: page
 title: News
 ---
 
+## 25th June 2019
+Daniel's paper on single cell RNAseq in mice testis is now published in [eLife](https://elifesciences.org/articles/43966).
+
 ## 17th June 2019
 Simon is giving a talk at ESHG: ["Genetic diversity and its unexpected impacts on recombination, genome evolution, speciation and sterility in mammals"](https://www.abstractsonline.com/pp8/#!/7874/presentation/54)
 

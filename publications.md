@@ -13,10 +13,10 @@ Leo Speidel, Marie Forest, Sinan Shi, Simon Myers [https://doi.org/10.1101/55055
 ### A high-resolution map of non-crossover events reveals impacts of genetic diversity on mammalian meiotic recombination
 Ran Li, Emmanuelle Bitoun, Nicolas Altemose, Robert W Davies, Benjamin Davies, Simon R Myers [https://doi.org/10.1101/428987](https://doi.org/10.1101/428987)
 
-### Unified single-cell analysis of testis gene regulation and pathology in 5 mouse strains
-Min Jung*, Daniel Wells*, Janette Rusch, Suhaira Ahmed, Jonathan Marchini, Simon Myers, Donald Conrad [https://doi.org/10.1101/393769](https://doi.org/10.1101/393769)
-
 ## Publications
+
+### Unified single-cell analysis of testis gene regulation and pathology in five mouse strains
+Min Jung*, Daniel Wells*, Janette Rusch, Suhaira Ahmed, Jonathan Marchini, Simon Myers, Donald Conrad [https://doi.org/10.7554/eLife.43966](https://doi.org/10.7554/eLife.43966)
 
 ## Fine-Scale Inference of Ancestry Segments Without Prior Knowledge of Admixing Groups
 Michael Salter-Townshend, Simon Myers [https://doi.org/10.1534/genetics.119.302139](https://doi.org/10.1534/genetics.119.302139)
