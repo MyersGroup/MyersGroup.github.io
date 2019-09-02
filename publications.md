@@ -5,20 +5,18 @@ title: Publications
 Below is a list of some of the groups’ recent publications.
 More publications can be found on [Google Scholar](https://scholar.google.co.uk/citations?user=IUkRO7gAAAAJ).
 
-## Preprints
+## Publications
 
 ### A method for genome-wide genealogy estimation for thousands of samples
-Leo Speidel, Marie Forest, Sinan Shi, Simon Myers [https://doi.org/10.1101/550558](https://doi.org/10.1101/550558)
+Leo Speidel, Marie Forest, Sinan Shi, Simon Myers [https://doi.org/10.1038/s41588-019-0484-x](https://doi.org/10.1038/s41588-019-0484-x)
 
 ### A high-resolution map of non-crossover events reveals impacts of genetic diversity on mammalian meiotic recombination
-Ran Li, Emmanuelle Bitoun, Nicolas Altemose, Robert W Davies, Benjamin Davies, Simon R Myers [https://doi.org/10.1101/428987](https://doi.org/10.1101/428987)
-
-## Publications
+Ran Li, Emmanuelle Bitoun, Nicolas Altemose, Robert W Davies, Benjamin Davies, Simon R Myers [https://doi.org/10.1038/s41467-019-11675-y](https://doi.org/10.1038/s41467-019-11675-y)
 
 ### Unified single-cell analysis of testis gene regulation and pathology in five mouse strains
 Min Jung*, Daniel Wells*, Janette Rusch, Suhaira Ahmed, Jonathan Marchini, Simon Myers, Donald Conrad [https://doi.org/10.7554/eLife.43966](https://doi.org/10.7554/eLife.43966)
 
-## Fine-Scale Inference of Ancestry Segments Without Prior Knowledge of Admixing Groups
+### Fine-Scale Inference of Ancestry Segments Without Prior Knowledge of Admixing Groups
 Michael Salter-Townshend, Simon Myers [https://doi.org/10.1534/genetics.119.302139](https://doi.org/10.1534/genetics.119.302139)
 
 ### Patterns of genetic differentiation and the footprints of historical migrations in the Iberian Peninsula
