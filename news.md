@@ -3,6 +3,12 @@ layout: page
 title: News
 ---
 
+## 2nd September 2019
+
+Leo's paper on genome-wide genealogy estimation for thousands of samples is now published in [Nature Genetics](https://www.nature.com/articles/s41588-019-0484-x).<br/>
+Also see [here](https://www.nature.com/articles/s41588-019-0492-x) for the corresponding news and views article by Kelley Harris!
+
+
 ## 25th June 2019
 Daniel's paper on single cell RNAseq in mice testis is now published in [eLife](https://elifesciences.org/articles/43966).
 
