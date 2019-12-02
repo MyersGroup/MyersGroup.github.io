@@ -3,6 +3,9 @@ layout: page
 title: News
 ---
 
+## 30th October 2019
+Our paper on Zcwpw1 is now avaliable on bioRxiv [https://doi.org/10.1101/821678](https://doi.org/10.1101/821678)
+
 ## 2nd September 2019
 
 Leo's paper on genome-wide genealogy estimation for thousands of samples is now published in [Nature Genetics](https://www.nature.com/articles/s41588-019-0484-x).<br/>
