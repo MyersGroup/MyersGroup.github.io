@@ -22,7 +22,7 @@ Michael Salter-Townshend, **Simon Myers**. *Genetics* (2019). DOI: [https://doi.
 Min Jung\*, **Daniel Wells\***, Janette Rusch, Suhaira Ahmed, Jonathan Marchini, **Simon R Myers**, Donald Conrad. *eLife* (2019). DOI: [https://doi.org/10.7554/eLife.43966](https://doi.org/10.7554/eLife.43966)
 
 ### Patterns of genetic differentiation and the footprints of historical migrations in the Iberian Peninsula
-**Clare Bycroft**, Ceres Fernandez-Rozadilla, Clara Ruiz-Ponte, Inés Quintela, Ángel Carracedo, Peter Donnelly\*, **Simon Myers\***. *Nature Communications** (2019). DOI: [https://doi.org/10.1038/s41467-018-08272-w](https://doi.org/10.1038/s41467-018-08272-w)
+**Clare Bycroft**, Ceres Fernandez-Rozadilla, Clara Ruiz-Ponte, Inés Quintela, Ángel Carracedo, Peter Donnelly\*, **Simon Myers\***. *Nature Communications* (2019). DOI: [https://doi.org/10.1038/s41467-018-08272-w](https://doi.org/10.1038/s41467-018-08272-w)
 
 ### A map of human PRDM9 binding provides evidence for novel behaviors of PRDM9 and other zinc-finger proteins in meiosis
 Nicolas Altemose, Nudrat Noor, **Emmanuelle Bitoun**, Afidalina Tumian, Michael Imbeault, J Ross Chapman, A Radu Aricescu, **Simon R Myers**. *eLife* (2017). DOI: [https://doi.org/10.7554/eLife.28383](https://doi.org/10.7554/eLife.28383)
