@@ -3,6 +3,9 @@ layout: page
 title: News
 ---
 
+## 7th June 2020
+Simon has been awarded the [Weldon Memorial Prize](https://en.wikipedia.org/wiki/Weldon_Memorial_Prize)! The prize is given yearly by the University of Oxford to the person who "in the ten years next preceding the date of the award, published the most noteworthy contribution to the development of mathematical or statistical methods applied to problems in Biology".
+
 ## 30th October 2019
 Our paper on Zcwpw1 is now avaliable on bioRxiv [https://doi.org/10.1101/821678](https://doi.org/10.1101/821678)
 
@@ -10,7 +13,6 @@ Our paper on Zcwpw1 is now avaliable on bioRxiv [https://doi.org/10.1101/821678]
 
 Leo's paper on genome-wide genealogy estimation for thousands of samples is now published in [Nature Genetics](https://www.nature.com/articles/s41588-019-0484-x).<br/>
 Also see [here](https://www.nature.com/articles/s41588-019-0492-x) for the corresponding news and views article by Kelley Harris!
-
 
 ## 25th June 2019
 Daniel's paper on single cell RNAseq in mice testis is now published in [eLife](https://elifesciences.org/articles/43966).
