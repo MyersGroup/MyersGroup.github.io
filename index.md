@@ -25,7 +25,7 @@ layout: landing
 <section class="spotlight">
 <div class="image"><img src="images/pic01.jpg" /></div><div class="content">
 <h2>Software</h2>
-Our research often results in new statistical and computational methods which we implement as software and make avaliable for academic use. <a href="software.html">Read more about our software here</a>.
+Our research often results in new statistical and computational methods which we implement as software and make available for academic use. <a href="software.html">Read more about our software here</a>.
 </div>
 </section>
 </section>
