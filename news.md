@@ -3,6 +3,9 @@ layout: page
 title: News
 ---
 
+## 17 February 2021
+The pre-print of a new paper by Leo, Robbie, Simon and co-authors is now [available on bioRxiv](https://www.biorxiv.org/content/10.1101/2021.02.17.431573v1)! The paper introduces an extension of the [Relate algorithm](https://myersgroup.github.io/relate/) to incorporate ancient genomes and infer their genealogies.
+
 ## 7th June 2020
 Simon has been awarded the [Weldon Memorial Prize](https://en.wikipedia.org/wiki/Weldon_Memorial_Prize)! The prize is given yearly by the University of Oxford to the person who "in the ten years next preceding the date of the award, published the most noteworthy contribution to the development of mathematical or statistical methods applied to problems in Biology".
 
