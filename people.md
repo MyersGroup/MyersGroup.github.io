@@ -64,7 +64,7 @@ I am a DPhil student co-supervised by Robert Davies and Simon Myers at Oxford, a
 
 <span class="image left"><img src="images/lino.jpg" /></span>
 
-I am a DPhil student in the Genomic Medicine and Statistics programme supervised by Profs. Simon Myers and Pier Palamara. My research focuses on the portability of GWAS associations and polygenic risk score performance across populations. Prior to starting my DPhil, I completed an MSc in statistics at the University of Edinburgh.
+I am a DPhil student in the Genomic Medicine and Statistics programme. My research focuses on the portability of GWAS associations and polygenic risk score performance across populations. Prior to starting my DPhil, I completed an MSc in statistics at the University of Edinburgh.
 
 [lino.ferreira@well.ox.ac.uk](mailto:lino.ferreira@well.ox.ac.uk)
 
