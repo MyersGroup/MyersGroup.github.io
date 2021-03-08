@@ -108,7 +108,7 @@ Yunli Song worked on the detection and genotyping of variable minisatellites fro
 Dr Zhangyi He completed a postdoc working on the Wellcome Trust-funded project “Building a platform for genetic inference from the Genomics England data”. He is now a Research Associate in Data Science at Imperial College London.
 
 
-## [Dr Clare Bycroft](https://twitter.com/bycgen):
+## [Dr Clare Bycroft](https://twitter.com/bycgen)
 
 <span class="image right"><img src="images/clare.jpg" /></span>
 
