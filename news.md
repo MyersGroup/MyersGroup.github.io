@@ -3,6 +3,9 @@ layout: page
 title: News
 ---
 
+## 7 June 2021
+"Rapid genotype imputation from sequence with reference panels", a new paper by Robbie, Sinan, Simon and co-authors, has been published in [Nature Genetics](https://www.nature.com/articles/s41588-021-00877-0). QUILT, the algorithm for genotype imputation using low-coverage WGS data introduced in the paper, is [freely available on GitHub](https://github.com/rwdavies/QUILT) under a GPL license.
+
 ## 17 February 2021
 The pre-print of a new paper by Leo, Robbie, Simon and co-authors is now [available on bioRxiv](https://www.biorxiv.org/content/10.1101/2021.02.17.431573v1)! The paper introduces an extension of the [Relate algorithm](https://myersgroup.github.io/relate/) to incorporate ancient genomes and infer their genealogies.
 

@@ -16,11 +16,16 @@ Anubha Mahajan, Cassandra N Spracklen<sup>\*</sup>, Weihua Zhang<sup>\*</sup>, M
 
 
 ## Publications
+### Rapid genotype imputation from sequence with reference panels
+
+**Robert W Davies**, Marek Kucka, Dingwen Su, **Sinan Shi**, Maeve Flanagan, Christopher M Cunniff, Yingguang Frank Chan, **Simon Myers**. *Nature Genetics* (2021). DOI: [10.1038/s41588-021-00877-0](https://doi.org/10.1038/s41588-021-00877-0)
+
+
 ### ZCWPW1 is recruited to recombination hotspots by PRDM9, and is essential for meiotic double strand break repair
 **Daniel Wells**, **Emmanuelle Bitoun**, Daniela Moralli, Gang Zhang, **Anjali Hinch**, Julia Jankowska, Peter Donnelly, Catherine Green, **Simon R Myers**. *eLife* (2020). DOI: [10.7554/eLife.53392](https://doi.org/10.7554/eLife.53392)
 
 ### A method for genome-wide genealogy estimation for thousands of samples
-**Leo Speidel**, **Marie Forest**, **Sinan Shi**, **Simon R Myers**. *Nature Genetics* (2019). DOI: [https://doi.org/10.1038/s41588-019-0484-x](https://doi.org/10.1038/s41588-019-0484-x)
+**Leo Speidel**, **Marie Forest**, **Sinan Shi**, **Simon R Myers**. *Nature Genetics* (2019). DOI: [10.1038/s41588-019-0484-x](https://doi.org/10.1038/s41588-019-0484-x)
 
 ### A high-resolution map of non-crossover events reveals impacts of genetic diversity on mammalian meiotic recombination
 **Ran Li**, **Emmanuelle Bitoun**, **Nicolas Altemose**, **Robert W Davies**, Benjamin Davies, **Simon R Myers**. *Nature Communications* (2019). DOI: [10.1038/s41467-019-11675-y](https://doi.org/10.1038/s41467-019-11675-y)
