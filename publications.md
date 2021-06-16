@@ -6,20 +6,17 @@ Below is a list of some of the group’s recent pre-prints and publications.
 More can be found on [Google Scholar](https://scholar.google.co.uk/citations?user=IUkRO7gAAAAJ).
 
 ## Pre-prints
-### Inferring population histories for ancient genomes using genome-wide genealogies
-**Leo Speidel**, Lara Cassidy, **Robert W Davies**, Garrett Hellenthal, Pontus Skoglund, **Simon R Myers**. *bioRxiv* (2021). DOI: [10.1101/2021.02.17.431573](https://doi.org/10.1101/2021.02.17.431573)
-
 ### Trans-ancestry genetic study of type 2 diabetes highlights the power of diverse populations for discovery and translation
 Anubha Mahajan, Cassandra N Spracklen<sup>\*</sup>, Weihua Zhang<sup>\*</sup>, Maggie CY Ng<sup>\*</sup>, Lauren E Petty<sup>\*</sup>, Hidetoshi Kitajima<sup>\*</sup>, Grace Z Yu<sup>\*</sup>, Sina Rüeger<sup>\*</sup>, **Leo Speidel<sup>\*</sup>**, &#8230;, **Simon R Myers**, Jorge Ferrer, Kyle J Gaulton, James B Meigs, Karen L Mohlke, Anna L Gloyn<sup>&#8224;</sup>, Donald W Bowden<sup>&#8224;</sup>, Jennifer E Below<sup>&#8224;</sup>, John C Chambers<sup>&#8224;</sup>, Xueling Sim<sup>&#8224;</sup>, Michael Boehnke<sup>&#8224;</sup>, Jerome I Rotter<sup>&#8224;</sup>, Mark I McCarthy<sup>&#8224;</sup>, Andrew P Morris<sup>&#8224;</sup>. *medRxiv* (2020). DOI: [10.1101/2020.09.22.20198937](https://doi.org/10.1101/2020.09.22.20198937)
 
 
 
-
 ## Publications
+### Inferring population histories for ancient genomes using genome-wide genealogies
+**Leo Speidel**, Lara Cassidy, **Robert W Davies**, Garrett Hellenthal, Pontus Skoglund, **Simon R Myers**. *Molecular Biology and Evolution* (2021). DOI: [10.1093/molbev/msab174](https://doi.org/10.1093/molbev/msab174)
+
 ### Rapid genotype imputation from sequence with reference panels
-
 **Robert W Davies**, Marek Kucka, Dingwen Su, **Sinan Shi**, Maeve Flanagan, Christopher M Cunniff, Yingguang Frank Chan, **Simon Myers**. *Nature Genetics* (2021). DOI: [10.1038/s41588-021-00877-0](https://doi.org/10.1038/s41588-021-00877-0)
-
 
 ### ZCWPW1 is recruited to recombination hotspots by PRDM9, and is essential for meiotic double strand break repair
 **Daniel Wells**, **Emmanuelle Bitoun**, Daniela Moralli, Gang Zhang, **Anjali Hinch**, Julia Jankowska, Peter Donnelly, Catherine Green, **Simon R Myers**. *eLife* (2020). DOI: [10.7554/eLife.53392](https://doi.org/10.7554/eLife.53392)

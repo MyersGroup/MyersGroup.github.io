@@ -3,6 +3,9 @@ layout: page
 title: News
 ---
 
+## 16 June 2021
+Leo's paper (with Robbie, Simon and others) titled "Inferring Population Histories for Ancient Genomes Using Genome-Wide Genealogies" is now published in [Molecular Biology and Evolution](https://doi.org/10.1093/molbev/msab174)! The paper introduces the Colate  software for inferring coalescence rates for unphased, low-coverage genomes. This software is available for free on [GitHub](https://github.com/leospeidel/Colate) under an open-source license.
+
 ## 7 June 2021
 "Rapid genotype imputation from sequence with reference panels", a new paper by Robbie, Sinan, Simon and co-authors, has been published in [Nature Genetics](https://www.nature.com/articles/s41588-021-00877-0). QUILT, the algorithm for genotype imputation using low-coverage WGS data introduced in the paper, is [freely available on GitHub](https://github.com/rwdavies/QUILT) under a GPL license.
 
