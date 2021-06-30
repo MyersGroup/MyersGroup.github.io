@@ -2,6 +2,14 @@
 layout: page
 title: People
 ---
+
+## Interested in joining our group?
+
+We are currently looking for **two Postdoctoral Research Assistants**. If interested please see the job adverts for more details ([job ad 1](https://my.corehr.com/pls/uoxrecruit/erq_jobspec_version_4.display_form?p_company=10&p_internal_external=E&p_display_in_irish=N&p_process_type=&p_applicant_no=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y&p_recruitment_id=151799); [job ad 2](https://my.corehr.com/pls/uoxrecruit/erq_jobspec_version_4.display_form?p_company=10&p_internal_external=E&p_display_in_irish=N&p_process_type=&p_applicant_no=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y&p_recruitment_id=151568)) and apply by 30 July.
+
+<br>
+
+
 ## Prof. Simon Myers
 <span class="image left"><img src="images/simon_myers.png" /></span>
 Our group is based jointly at the [Department of Statistics](https://www.stats.ox.ac.uk), and the [Wellcome Trust Centre for Human Genetics](https://www.well.ox.ac.uk). We are broadly interested in answering questions in statistical, population, and medical genetics. We develop and apply model-based computational techniques, and perform lab-based research. One strong focus of the group’s research is the study of the basic biological process of recombination, and its links to fertility and health in mammals. A second focus is inference of  fine-scale population structure – within individual countries – and the genetic impacts of migration events, in humans and other species.

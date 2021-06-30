@@ -3,6 +3,9 @@ layout: page
 title: News
 ---
 
+## 30 June 2021
+**We're hiring!** We are currently looking for **two Postdoctoral Research Assistants** to study differences in healthy phenotypes and disease risks between human populations and develop predictive models for how DNA sequences impact regulatory networks. If interested please see the job adverts for more details ([job ad 1](https://my.corehr.com/pls/uoxrecruit/erq_jobspec_version_4.display_form?p_company=10&p_internal_external=E&p_display_in_irish=N&p_process_type=&p_applicant_no=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y&p_recruitment_id=151799); [job ad 2](https://my.corehr.com/pls/uoxrecruit/erq_jobspec_version_4.display_form?p_company=10&p_internal_external=E&p_display_in_irish=N&p_process_type=&p_applicant_no=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y&p_recruitment_id=151568)) and apply by 30 July.
+
 ## 16 June 2021
 Leo's paper (with Robbie, Simon and others) titled "Inferring Population Histories for Ancient Genomes Using Genome-Wide Genealogies" is now published in [Molecular Biology and Evolution](https://doi.org/10.1093/molbev/msab174)! The paper introduces the Colate  software for inferring coalescence rates for unphased, low-coverage genomes. This software is available for free on [GitHub](https://github.com/leospeidel/Colate) under an open-source license.
 
