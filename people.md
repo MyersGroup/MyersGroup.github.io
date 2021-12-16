@@ -53,6 +53,7 @@ Having completed my degree in 2006, covering a wide range of mathematical topics
 
 
 ### Yunong Lin
+I am a DPhil student co-supervised by Prof. Simon Myers and Prof. Robert Davies. I am currently working on the GWAS associations of stratified cohorts. I did my MSc in statistics at University of Wisconsin-Madison, and worked as a research specialist there for a year after my graduation.
 
 
 ### Hrushikesh Loya
