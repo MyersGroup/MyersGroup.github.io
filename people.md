@@ -3,14 +3,7 @@ layout: page
 title: People
 ---
 
-## Interested in joining our group?
-
-We are currently looking for **two Postdoctoral Research Assistants**. If interested please see the job adverts for more details ([job ad 1](https://my.corehr.com/pls/uoxrecruit/erq_jobspec_version_4.display_form?p_company=10&p_internal_external=E&p_display_in_irish=N&p_process_type=&p_applicant_no=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y&p_recruitment_id=151799); [job ad 2](https://my.corehr.com/pls/uoxrecruit/erq_jobspec_version_4.display_form?p_company=10&p_internal_external=E&p_display_in_irish=N&p_process_type=&p_applicant_no=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y&p_recruitment_id=151568)) and apply by 30 July.
-
-<br>
-
-
-## Prof. Simon Myers
+## Prof. Simon R. Myers
 <span class="image left"><img src="images/simon_myers.png" /></span>
 Our group is based jointly at the [Department of Statistics](https://www.stats.ox.ac.uk), and the [Wellcome Trust Centre for Human Genetics](https://www.well.ox.ac.uk). We are broadly interested in answering questions in statistical, population, and medical genetics. We develop and apply model-based computational techniques, and perform lab-based research. One strong focus of the group’s research is the study of the basic biological process of recombination, and its links to fertility and health in mammals. A second focus is inference of  fine-scale population structure – within individual countries – and the genetic impacts of migration events, in humans and other species.
 
@@ -23,7 +16,31 @@ Our group is based jointly at the [Department of Statistics](https://www.stats.o
 <span class="image left"><img src="images/bitoun.png" width="160" height="160" /></span>
 I am a postdoc performing experimental lab-based research to study recombination, and its links to speciation, in mammals. I leverage a variety of experimental techniques including ChIP-Seq, fertility assays, transfection, and the investigation of protein-protein interactions.
 
-[ebitoun@well.ox.ac.uk](mailto:ebitoun@well.ox.ac.uk)
+<!--- [ebitoun@well.ox.ac.uk](mailto:ebitoun@well.ox.ac.uk) -->
+
+
+### [Dr Anastasia Ignatieva](https://www.stats.ox.ac.uk/~ignatiev/index.html)
+<span class="image left"><img src="images/anastasia.png" width="160" height="162" /></span>
+I am a postdoc at the Department of Statistics. I am broadly interested in genealogy-based statistical approaches and computational tools for analysing genetic sequencing data, and am currently working on developing scalable methods for understanding aspects of human evolution.
+
+<!--- [anastasia.ignatieva@stats.ox.ac.uk](mailto:anastasia.ignatieva@stats.ox.ac.uk) -->
+
+
+### Nikolas Baya
+<span class="image left"><img src="images/nik.png" width="160" height="220.5" /></span>
+I am a DPhil student co-supervised by Prof. Simon Myers and Prof. Cecilia Lindgren as part of the Genomic Medicine and Statistics programme. In my research I study the genetic architecture of extreme and unexpected phenotypes. I received an undergraduate degree in applied mathematics at Brown University and worked at the Broad Institute of MIT and Harvard before coming to Oxford.
+
+
+### Jessica Cho
+<span class="image left"><img src="images/jessica.jpg" width="160" height="199" /></span>
+I am an undergraduate student in Biomedical Sciences, gaining more lab experiences through my placement year here with the Myers group.
+
+
+### Lino Ferreira
+<span class="image left"><img src="images/lino.jpg" width="160" height="213" /></span>
+I am a DPhil student in the Genomic Medicine and Statistics programme. My research focuses on the portability of GWAS associations and polygenic risk score performance across populations. Prior to starting my DPhil, I completed an MSc in statistics at the University of Edinburgh.
+
+<!--- [lino.ferreira@well.ox.ac.uk](mailto:lino.ferreira@well.ox.ac.uk) -->
 
 
 ### [Dr Christopher C. Gill](http://www.stats.ox.ac.uk/~gill/)
@@ -32,35 +49,41 @@ I am working with the ancestry company [LivingDNA](https://www.livingdna.com/). 
 
 Having completed my degree in 2006, covering a wide range of mathematical topics, I went on to complete a DPhil, focussing on the representation theory of finite groups. Much of my time was spent studying questions related to the decomposition numbers. More specifically, I studied properties of Young modules, an important aspect of the representation theory of the symmetric group, and more generally trivial source modules for finite groups. I spent several years pursuing research in this area, whilst enjoying a considerable amount of teaching. I held positions at Charles University in Prague, and at Somerville College and Keble College in Oxford. In 2015 I decided to pursue a more interdisciplinary approach to research in the biological/biomedical setting.
 
-[gill@stats.ox.ac.uk](mailto:gill@stats.ox.ac.uk)
+<!--- [gill@stats.ox.ac.uk](mailto:gill@stats.ox.ac.uk) -->
+
+
+### Yunong Lin
+
+
+### Hrushikesh Loya
+<span class="image left"><img src="images/hrushi.jpg" width="160" height="213" /></span>
+I am a DPhil student in Genomic Medicine and Statistics jointly co-supervised by Prof. Simon Myers and Prof. Pier Palamara. My primary research interest involves Bayesian method development for application in statistical and population genetics. Before Oxford, I completed my bachelor's and masters in electrical engineering from IIT Bombay, India. 
+
+
+### Brynelle Myers
+<span class="image left"><img src="images/brynelle.jpeg" width="160" height="214" /></span>
+I am a lab-based experimental researcher in Simon Myers’ team since September 2021. I am currently working on mammalian meiosis, including epigenetic regulation of gene expression using single-cell technologies. I obtained my MPhil degree at Newcastle University prior to working at the University of Cambridge (2017-2019) and Wellcome Sanger Institute (2019-2021).
 
 
 ### Sinan Shi
 <span class="image left"><img src="images/sinan_shi.jpeg" width="160" height="223" /></span>
 I am a DPhil student co-supervised by Prof. Simon Myers and Prof. Pier Palamara, working on the phasing and imputation of 100,000 Genomes Project of Genomics England. Previously, I worked as a research software engineer in various research institutes.
 
-[sinan.shi@stats.ox.ac.uk](mailto:sinan.shi@stats.ox.ac.uk)
+<!--- [sinan.shi@stats.ox.ac.uk](mailto:sinan.shi@stats.ox.ac.uk) -->
 
 
 ### Miriam Stricker
 <span class="image left"><img src="images/miriam2.png" width="160" height="160" /></span>
 I am a DPhil student co-supervised by Prof. Pier Palamara (Systems Approaches to Biomedical Sciences CDT, collaboration with Satu Nahkuri, Roche). My current research is focused on developing machine learning algorithms to study how variation in non-coding parts of the genome influences the epigenetics and expression levels of coding parts of the genome, with applications within cancer immunotherapies. Before joining the lab I worked in Biophysics and obtained degrees from Heidelberg University. 
 
-[miriam.stricker@wolfson.ox.ac.uk](mailto:miriam.stricker@wolfson.ox.ac.uk)
+<!--- [miriam.stricker@wolfson.ox.ac.uk](mailto:miriam.stricker@wolfson.ox.ac.uk) -->
 
 
 ### Luis Torada Aguilella
 <span class="image left"><img src="images/luis.jpg" width="160" height="195" /></span>
 I am a DPhil student co-supervised by Robert Davies and Simon Myers at Oxford, as well as Satu Nahkuri and Tony Kam-Thong at Roche. I am currently investigating genetic heterogeneity within Autism Spectrum Disorder. Before coming to Oxford, I did a BSc in Biochemistry at University of Navarra (Spain) and a MSc in Bioinformatics and Systems Biology at Imperial College London (UK). I then joined the Systems Approaches to Biomedical Science Doctoral Training Center (SABS DTC) at Oxford, starting my DPhil in Nov 2019. My current project reflects my major research interest: large-scale dataset modelling with health impact.
 
-[luis.torada@linacre.ox.ac.uk](mailto:luis.torada@linacre.ox.ac.uk)
-
-
-### Lino Ferreira
-<span class="image left"><img src="images/lino.jpg" width="160" height="213" /></span>
-I am a DPhil student in the Genomic Medicine and Statistics programme. My research focuses on the portability of GWAS associations and polygenic risk score performance across populations. Prior to starting my DPhil, I completed an MSc in statistics at the University of Edinburgh.
-
-[lino.ferreira@well.ox.ac.uk](mailto:lino.ferreira@well.ox.ac.uk)
+<!--- [luis.torada@linacre.ox.ac.uk](mailto:luis.torada@linacre.ox.ac.uk) -->
 
 
 
