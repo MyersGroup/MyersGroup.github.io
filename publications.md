@@ -12,6 +12,9 @@ Anubha Mahajan, Cassandra N Spracklen<sup>\*</sup>, Weihua Zhang<sup>\*</sup>, M
 
 
 ## Publications
+### Altering the Binding Properties of PRDM9 Partially Restores Fertility across the Species Boundary
+Benjamin Davies, Anjali Gupta Hinch, Alberto Cebrian-Serrano, Samy Alghadban, Philipp W Becker, Daniel Biggs, Polinka Hernandez-Pliego, Chris Preece, Daniela Moralli, Gang Zhang, **Simon Myers**, Peter Donnelly. *Molecular Biology and Evolution* (2021). DOI: [10.1093/molbev/msab269](https://doi.org/10.1093/molbev/msab269)
+
 ### Inferring population histories for ancient genomes using genome-wide genealogies
 **Leo Speidel**, Lara Cassidy, **Robert W Davies**, Garrett Hellenthal, Pontus Skoglund, **Simon R Myers**. *Molecular Biology and Evolution* (2021). DOI: [10.1093/molbev/msab174](https://doi.org/10.1093/molbev/msab174)
 
