@@ -39,12 +39,12 @@ Our research often results in new statistical and computational methods which we
 </header>
 <ul class="features">
 <li class="icon fa-newspaper-o">
-<h3>Genotype Imputation</h3>
-We recently published "Rapid genotype imputation from sequence without reference panels" in <a href="https://doi.org/10.1038/ng.3594">Nature Genetics</a>.
+<h3>Genotype imputation</h3>
+We recently published "Rapid genotype imputation from sequence with reference panels" in <a href="https://doi.org/10.1038/s41588-021-00877-0">Nature Genetics</a>.
 </li>
 <li class="icon fa-newspaper-o">
-<h3>A human PRDM9 binding map</h3>
-Our paper "A map of human PRDM9 binding provides evidence for novel behaviors of PRDM9 and other zinc-finger proteins in meiosis" is now published in <a href="https://doi.org/10.7554/eLife.28383">Elife</a>.
+<h3>Inferring population histories</h3>
+Our paper "Inferring Population Histories for Ancient Genomes Using Genome-Wide Genealogies" is now published in <a href="https://doi.org/10.1093/molbev/msab174">Molecular Biology and Evolution</a>.
 </li>
 </ul>
 </div>
