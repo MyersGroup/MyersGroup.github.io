@@ -3,9 +3,15 @@ layout: page
 title: Software
 ---
 
-## [Relate](https://myersgroup.github.io/relate/)
+## [Colate:](https://github.com/leospeidel/Colate)
 
-Relate estimates genome-wide genealogies for sequencing data of thousands of individuals. A genealogy connects present-day samples and their most-recent common ancestors (MRCAs) using historical coalescence, recombination, and mutation events. To reconstruct a genealogy, the MRCA relationships are inferred from present-day samples. In principle, they record all available information about the genetic history of a sample, such that genealogy-based inferences are often very powerful. Relate can be used to estimate historical population sizes and mutation rates, or detect evidence of selective sweeps in a population. 
+Colate ([Speidel et al., *Molecular Biology and Evolution* (2021)](https://doi.org/10.1093/molbev/msab174))  is a fast and scalable method for inferring ancestral relationships through time between low-coverage genomes without requiring phasing or imputation.
+
+The method is available at [https://github.com/leospeidel/Colate](https://github.com/leospeidel/Colate).
+
+## [Relate:](https://myersgroup.github.io/relate/)
+
+Relate ([Speidel et al., *Nature Genetics* (2019)](https://doi.org/10.1038/s41588-019-0484-x)) estimates genome-wide genealogies for sequencing data of thousands of individuals. A genealogy connects present-day samples and their most-recent common ancestors (MRCAs) using historical coalescence, recombination, and mutation events. To reconstruct a genealogy, the MRCA relationships are inferred from present-day samples. In principle, they record all available information about the genetic history of a sample, such that genealogy-based inferences are often very powerful. Relate can be used to estimate historical population sizes and mutation rates, or detect evidence of selective sweeps in a population. 
 
 The method is available at [https://myersgroup.github.io/relate/](https://myersgroup.github.io/relate/).
 
@@ -15,7 +21,7 @@ MOSAIC infers ancestry segments and characterizes admixture events, which involv
 
 For details and to download the software, visit [https://maths.ucd.ie/~mst/MOSAIC/](https://maths.ucd.ie/~mst/MOSAIC/).
 
-## [HapMix](http://www.stats.ox.ac.uk/~myers/HapmixReleasev2/)
+## [HapMix:](http://www.stats.ox.ac.uk/~myers/HapmixReleasev2/)
 [Price et al. 2009](http://genetics.med.harvard.edu/reich/Reich_Lab/Software_files/2009_PLoSGenetics_Price_HAPMIX.pdf) uses genotyping data from SNP arrays to infer chromosomal segments of distinct continental ancestry in admixed populations. Source code is being maintained on the Alkes Price lab website and can be downloaded [here](http://www.hsph.harvard.edu/alkes-price/software/)
 Write to Simon Myers if you have scientific questions and to Mengyao Zhao if you have questions about the software
 
