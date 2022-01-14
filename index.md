@@ -15,7 +15,7 @@ layout: landing
 <div class="inner">
 <header class="major">
 <h2>The Team</h2>
-<p>We are a diverse group of postdoctoral researchers and DPhil students brought together by a common interest in fine-scale population structure and recombination. We are lead by Professor Simon Myers based the University of Oxford. <a href="people.html">Find out more about our research interests and backgrounds.</a></p>
+<p>We are a diverse group of postdoctoral researchers and DPhil students brought together by a common interest in fine-scale population structure and recombination. We are lead by Professor Simon Myers and based at the University of Oxford. <a href="people.html">Find out more about our research interests and backgrounds.</a></p>
 </header>
 </div>
 </section>
