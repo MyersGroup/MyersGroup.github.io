@@ -3,11 +3,13 @@ layout: page
 title: News
 ---
 
+## 14 January 2022
+We are looking forward to the 7th [Probabilistic Modeling in Genomics Conference (ProbGen22)](https://probgen22.github.io/), which will be held in Oxford (and also virtually in a hybrid format) from 28-30th March 2022. Simon and Robbie are part of the conference's organising committee.
+
 ## 12 October 2021
 Chris Gill, a DPhil student in the group, has passed his DPhil viva. Many congratulations, Chris!
 
 ## 11 October 2021
-
 Anastasia Ignatieva has joined the group as a postdoctoral researcher. She has recently completed a PhD on the Oxford-Warwick Statistics Programme and will be working on developing scalable methods for understanding aspects of human evolution. Welcome, Anastasia!
 
 We are also delighted to welcome Nik Baya, Yunong Lin and Hrushikesh Loya, three new DPhil students in the group!
@@ -31,7 +33,6 @@ Simon has been awarded the [Weldon Memorial Prize](https://en.wikipedia.org/wiki
 Our paper on Zcwpw1 is now avaliable on bioRxiv [https://doi.org/10.1101/821678](https://doi.org/10.1101/821678)
 
 ## 2nd September 2019
-
 Leo's paper on genome-wide genealogy estimation for thousands of samples is now published in [Nature Genetics](https://www.nature.com/articles/s41588-019-0484-x).<br/>
 Also see [here](https://www.nature.com/articles/s41588-019-0492-x) for the corresponding news and views article by Kelley Harris!
 
