@@ -19,6 +19,11 @@ I am a postdoc performing experimental lab-based research to study recombination
 <!--- [ebitoun@well.ox.ac.uk](mailto:ebitoun@well.ox.ac.uk) -->
 
 
+### Dr Ipsita Agarwal 
+<span class="image left"><img src="images/ipsita.png" width="160" height="224" /></span>
+I am a postdoc at the Department of Statistics, working on building models for how DNA sequence modulates and is shaped by recombination events, using chromatin accessibility and expression data from single cells undergoing meiosis. I am broadly interested in using population genetics and computational approaches to understand the biology of the processes that underlie evolution. I received my Ph.D at Columbia University, where I worked on elucidating the causes and fitness consequences of de novo mutations in humans.
+
+
 ### [Dr Anastasia Ignatieva](https://www.stats.ox.ac.uk/~ignatiev/index.html)
 <span class="image left"><img src="images/anastasia.png" width="160" height="162" /></span>
 I am a postdoc at the Department of Statistics. I am broadly interested in genealogy-based statistical approaches and computational tools for analysing genetic sequencing data, and am currently working on developing scalable methods for understanding aspects of human evolution.
@@ -41,15 +46,6 @@ I am an undergraduate student in Biomedical Sciences, gaining more lab experienc
 I am a DPhil student in the Genomic Medicine and Statistics programme. My research focuses on the portability of GWAS associations and polygenic risk score performance across populations. Prior to starting my DPhil, I completed an MSc in statistics at the University of Edinburgh.
 
 <!--- [lino.ferreira@well.ox.ac.uk](mailto:lino.ferreira@well.ox.ac.uk) -->
-
-
-### [Dr Christopher C. Gill](http://www.stats.ox.ac.uk/~gill/)
-<span class="image left"><img src="images/gill.jpg" width="160" height="222" /></span>
-I am working with the ancestry company [LivingDNA](https://www.livingdna.com/). This is part of the Systems Approaches to Biomedical Sciences ([SABS](http://www.sabsidc.ox.ac.uk/)) doctoral program. I am currently interested in developing statistical tools and pipelines to provide new insights into genetic ancestry estimation.
-
-Having completed my degree in 2006, covering a wide range of mathematical topics, I went on to complete a DPhil, focussing on the representation theory of finite groups. Much of my time was spent studying questions related to the decomposition numbers. More specifically, I studied properties of Young modules, an important aspect of the representation theory of the symmetric group, and more generally trivial source modules for finite groups. I spent several years pursuing research in this area, whilst enjoying a considerable amount of teaching. I held positions at Charles University in Prague, and at Somerville College and Keble College in Oxford. In 2015 I decided to pursue a more interdisciplinary approach to research in the biological/biomedical setting.
-
-<!--- [gill@stats.ox.ac.uk](mailto:gill@stats.ox.ac.uk) -->
 
 
 ### Yunong Lin
@@ -89,7 +85,6 @@ I am a DPhil student co-supervised by Robert Davies and Simon Myers at Oxford, a
 
 
 <br>
-<br>
 
 
 
@@ -118,6 +113,14 @@ Dr Ran Li completed a postdoc working on the resolution of recombination. She is
 <br>
 
 ### Research students
+
+### [Dr Christopher C. Gill](http://www.stats.ox.ac.uk/~gill/)
+<span class="image left"><img src="images/gill.jpg" width="160" height="222" /></span>
+I am working with the ancestry company [LivingDNA](https://www.livingdna.com/). This is part of the Systems Approaches to Biomedical Sciences ([SABS](http://www.sabsidc.ox.ac.uk/)) doctoral program. I am currently interested in developing statistical tools and pipelines to provide new insights into genetic ancestry estimation.
+
+Having completed my degree in 2006, covering a wide range of mathematical topics, I went on to complete a DPhil, focussing on the representation theory of finite groups. Much of my time was spent studying questions related to the decomposition numbers. More specifically, I studied properties of Young modules, an important aspect of the representation theory of the symmetric group, and more generally trivial source modules for finite groups. I spent several years pursuing research in this area, whilst enjoying a considerable amount of teaching. I held positions at Charles University in Prague, and at Somerville College and Keble College in Oxford. In 2015 I decided to pursue a more interdisciplinary approach to research in the biological/biomedical setting.
+
+<!--- [gill@stats.ox.ac.uk](mailto:gill@stats.ox.ac.uk) -->
 
 #### [Dr Daniel Wells](http://www.danielwells.me)
 <span class="image left"><img src="images/daniel_wells.jpg" width="160" height="221" /></span>
