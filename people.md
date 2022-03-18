@@ -116,11 +116,7 @@ Dr Ran Li completed a postdoc working on the resolution of recombination. She is
 
 ### [Dr Christopher C. Gill](http://www.stats.ox.ac.uk/~gill/)
 <span class="image left"><img src="images/gill.jpg" width="160" height="222" /></span>
-I am working with the ancestry company [LivingDNA](https://www.livingdna.com/). This is part of the Systems Approaches to Biomedical Sciences ([SABS](http://www.sabsidc.ox.ac.uk/)) doctoral program. I am currently interested in developing statistical tools and pipelines to provide new insights into genetic ancestry estimation.
-
-Having completed my degree in 2006, covering a wide range of mathematical topics, I went on to complete a DPhil, focussing on the representation theory of finite groups. Much of my time was spent studying questions related to the decomposition numbers. More specifically, I studied properties of Young modules, an important aspect of the representation theory of the symmetric group, and more generally trivial source modules for finite groups. I spent several years pursuing research in this area, whilst enjoying a considerable amount of teaching. I held positions at Charles University in Prague, and at Somerville College and Keble College in Oxford. In 2015 I decided to pursue a more interdisciplinary approach to research in the biological/biomedical setting.
-
-<!--- [gill@stats.ox.ac.uk](mailto:gill@stats.ox.ac.uk) -->
+Dr Christopher C. Gill completed a DPhil (2015-2021) on new methods in single-cell genomics which involve leveraging genomic annotations to uncover latent components in gene expression analysis ([link to thesis](https://ora.ox.ac.uk/objects/uuid:d267352b-a858-4bab-a853-e563d3f6dac9)).
 
 #### [Dr Daniel Wells](http://www.danielwells.me)
 <span class="image left"><img src="images/daniel_wells.jpg" width="160" height="221" /></span>
