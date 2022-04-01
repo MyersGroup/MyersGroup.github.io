@@ -3,6 +3,13 @@ layout: page
 title: People
 ---
 
+## Interested in joining our group?
+
+We are currently looking for a **Senior Postdoctoral Research Scientist** to perform and lead the group’s lab-based research into meiosis. If interested, please see [this job advert](https://my.corehr.com/pls/uoxrecruit/erq_jobspec_version_4.display_form?p_company=10&p_internal_external=E&p_display_in_irish=N&p_process_type=&p_applicant_no=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y&p_recruitment_id=156664) for more details and apply by 12 midday on Thursday 28 April 2022.
+
+<br>
+
+
 ## Prof. Simon R. Myers
 <span class="image left"><img src="images/simon_myers.png" /></span>
 Our group is based jointly at the [Department of Statistics](https://www.stats.ox.ac.uk), and the [Wellcome Trust Centre for Human Genetics](https://www.well.ox.ac.uk). We are broadly interested in answering questions in statistical, population, and medical genetics. We develop and apply model-based computational techniques, and perform lab-based research. One strong focus of the group’s research is the study of the basic biological process of recombination, and its links to fertility and health in mammals. A second focus is inference of  fine-scale population structure – within individual countries – and the genetic impacts of migration events, in humans and other species.
@@ -10,13 +17,6 @@ Our group is based jointly at the [Department of Statistics](https://www.stats.o
 [CV](http://www.stats.ox.ac.uk/~myers/CV.docx) - 
 [ORCID Profile](http://orcid.org/0000-0002-2585-9626) - 
 [myers@stats.ox.ac.uk](mailto:myers@stats.ox.ac.uk)
-
-
-### Dr Emmanuelle Bitoun
-<span class="image left"><img src="images/bitoun.png" width="160" height="160" /></span>
-I am a postdoc performing experimental lab-based research to study recombination, and its links to speciation, in mammals. I leverage a variety of experimental techniques including ChIP-Seq, fertility assays, transfection, and the investigation of protein-protein interactions.
-
-<!--- [ebitoun@well.ox.ac.uk](mailto:ebitoun@well.ox.ac.uk) -->
 
 
 ### Dr Ipsita Agarwal 
@@ -92,6 +92,10 @@ I am a DPhil student co-supervised by Robert Davies and Simon Myers at Oxford, a
 
 ### Post-doctoral researchers
 
+#### Dr Emmanuelle Bitoun
+<span class="image left"><img src="images/bitoun.png" width="160" height="160" /></span>
+Dr Emmanuelle Bitoun worked in our group for eight years, performing experimental lab-based research to study recombination, and its links to speciation, in mammals. She leverage a variety of experimental techniques including ChIP-Seq, fertility assays, transfection, and the investigation of protein-protein interactions.
+
 #### [Dr Leo Speidel](https://leospeidel.com/)
 <span class="image left"><img src="images/leo.jpg" width="160" height="186" /></span>
 Dr Leo Speidel completed a DPhil ([link to thesis](https://ora.ox.ac.uk/objects/uuid:61e3f8d0-6911-461d-92ea-ee91559cf353)) and postdoc (2016-2020) working on a method for estimating genealogies for thousands of DNA samples. The method, Relate, is available at [https://myersgroup.github.io/relate/](https://myersgroup.github.io/relate/). He is now a Sir Henry Wellcome fellow at UCL, Genetics Institute and the Francis Crick Institute in London.
@@ -114,7 +118,7 @@ Dr Ran Li completed a postdoc working on the resolution of recombination. She is
 
 ### Research students
 
-### [Dr Christopher C. Gill](http://www.stats.ox.ac.uk/~gill/)
+#### [Dr Christopher C. Gill](http://www.stats.ox.ac.uk/~gill/)
 <span class="image left"><img src="images/gill.jpg" width="160" height="222" /></span>
 Dr Christopher C. Gill completed a DPhil (2015-2021) on new methods in single-cell genomics which involve leveraging genomic annotations to uncover latent components in gene expression analysis ([link to thesis](https://ora.ox.ac.uk/objects/uuid:d267352b-a858-4bab-a853-e563d3f6dac9)).
 
