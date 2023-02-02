@@ -3,12 +3,6 @@ layout: page
 title: News
 ---
 
-## 1 April 2022
-
-<span style="font-size:x-large;">**We're hiring!**</span>
-
-We are currently looking for a **Senior Postdoctoral Research Scientist** to perform and lead the group’s lab-based research into meiosis. If interested, please see [this job advert](https://my.corehr.com/pls/uoxrecruit/erq_jobspec_version_4.display_form?p_company=10&p_internal_external=E&p_display_in_irish=N&p_process_type=&p_applicant_no=&p_form_profile_detail=&p_display_apply_ind=Y&p_refresh_search=Y&p_recruitment_id=156664) for more details and apply by 12 midday on Thursday 28 April 2022.
-
 ## 14 January 2022
 We are looking forward to the 7th [Probabilistic Modeling in Genomics Conference (ProbGen22)](https://probgen22.github.io/), which will be held in Oxford (and also virtually in a hybrid format) from 28-30th March 2022. Simon and Robbie are part of the conference's organising committee.
 
