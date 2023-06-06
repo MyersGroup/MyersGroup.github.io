@@ -3,8 +3,23 @@ layout: page
 title: News
 ---
 
+## 17 March 2023
+Luis, Miriam and Sinan recently passed their thesis defence vivas. Many congratulations, Drs Torada Aguilella, Stricker and Shi!
+
+## 11 March 2023
+Ana and Simon gave talks at the Probabilistic Modeling in Genomics Conference (ProbGen23) at the Cold Spring Harbor Laboratory in New York! Ipsita, Hrushi and Lino presented posters of their work.
+
+## 28 October 2022
+We recently welcomed two new members to the group: Dr Martin Houlard, who joins us as a senior postdoctoral researcher, and Isobel Myers, a new DPhil student co-supervised by Simon and Prof. Robert Davies.
+
+## 25 March 2022
+Emmanuelle is moving on to an exciting new job as Principal Scientist at Ochre Bio. We're sad to see her go but wish her every success in her new role!
+
 ## 14 January 2022
 We are looking forward to the 7th [Probabilistic Modeling in Genomics Conference (ProbGen22)](https://probgen22.github.io/), which will be held in Oxford (and also virtually in a hybrid format) from 28-30th March 2022. Simon and Robbie are part of the conference's organising committee.
+
+## 9 January 2022
+We're excited to welcome a new postdoctoral researcher, Ipsita Agarwal, into the group! Ipsita recently completed her PhD at Columbia University in New York City.
 
 ## 12 October 2021
 Chris Gill, a DPhil student in the group, has passed his DPhil viva. Many congratulations, Chris!
