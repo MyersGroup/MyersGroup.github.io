@@ -3,6 +3,16 @@ layout: page
 title: News
 ---
 
+## 8 November 2023
+A new preprint led by Sinan and on which Sile is a co-author has been released on [bioRxiv](https://doi.org/10.1101/2023.11.06.23298035). This paper uses the Genomics England dataset as a haplotype reference panel to impute genetic variation in greater depth into the UK Biobank.
+
+## 9 August 2023
+Sile's preprint on modelling fine-scale population structure in the UK Biobank, on which Lino and Sinan are co-authors, is now available on [bioRxiv](https://doi.org/10.1101/2023.08.08.552281). Sile et al. show that genetic effect sizes are conserved between human populations across a range of quantitative human traits.
+
+
+## 11 July 2023
+Ana's new preprint on the distribution of branch duration and the detection of inversions in ancestral recombination graphs is out on [bioRxiv](https://doi.org/10.1101/2023.07.11.548567).
+
 ## 17 March 2023
 Luis, Miriam and Sinan recently passed their thesis defence vivas. Many congratulations, Drs Torada Aguilella, Stricker and Shi!
 
@@ -45,7 +55,7 @@ The pre-print of a new paper by Leo, Robbie, Simon and co-authors is now [availa
 Simon has been awarded the [Weldon Memorial Prize](https://en.wikipedia.org/wiki/Weldon_Memorial_Prize)! The prize is given yearly by the University of Oxford to the person who "in the ten years next preceding the date of the award, published the most noteworthy contribution to the development of mathematical or statistical methods applied to problems in Biology".
 
 ## 30th October 2019
-Our paper on Zcwpw1 is now avaliable on bioRxiv [https://doi.org/10.1101/821678](https://doi.org/10.1101/821678)
+Our paper on *ZCWPW1* is now avaliable on bioRxiv [https://doi.org/10.1101/821678](https://doi.org/10.1101/821678)
 
 ## 2nd September 2019
 Leo's paper on genome-wide genealogy estimation for thousands of samples is now published in [Nature Genetics](https://www.nature.com/articles/s41588-019-0484-x).<br/>
