@@ -3,6 +3,9 @@ layout: page
 title: News
 ---
 
+## 5 December 2023
+Lino has passed his DPhil thesis defence. Congratulations! He will be staying in the group for a little while longer working as a postdoc.
+
 ## 8 November 2023
 A new preprint led by Sinan and on which Sile is a co-author has been released on [bioRxiv](https://doi.org/10.1101/2023.11.06.23298035). This paper uses the Genomics England dataset as a haplotype reference panel to impute genetic variation in greater depth into the UK Biobank.
 
@@ -11,7 +14,6 @@ Simon gave an invited talk on recombination and its evolution as drivers of gene
 
 ## 9 August 2023
 Sile's preprint on modelling fine-scale population structure in the UK Biobank, on which Lino and Sinan are co-authors, is now available on [bioRxiv](https://doi.org/10.1101/2023.08.08.552281). Sile et al. show that genetic effect sizes are conserved between human populations across a range of quantitative human traits.
-
 
 ## 11 July 2023
 Ana's new preprint on the distribution of branch duration and the detection of inversions in ancestral recombination graphs is out on [bioRxiv](https://doi.org/10.1101/2023.07.11.548567).

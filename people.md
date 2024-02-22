@@ -16,34 +16,25 @@ Our group is based jointly at the [Department of Statistics](https://www.stats.o
 <span class="image left"><img src="images/ipsita.png" width="160" height="224" /></span>
 I am a postdoc at the Department of Statistics, working on building models for how DNA sequence modulates and is shaped by recombination events, using chromatin accessibility and expression data from single cells undergoing meiosis. I am broadly interested in using population genetics and computational approaches to understand the biology of the processes that underlie evolution. I received my Ph.D at Columbia University, where I worked on elucidating the causes and fitness consequences of de novo mutations in humans.
 
+### [Lino Ferreira](https://lfe.pt)
+<span class="image left"><img src="images/lino.png" width="160" height="213" /></span>
+I completed my DPhil in Genomic Medicine and Statistics under Simon Myers' supervision in 2023 and currently work as a postdoctoral researcher in the group. My research focuses on genetic interactions and how these can help us to better understand the genetic basis of complex traits. Prior to starting my DPhil, I completed an MSc in statistics at the University of Edinburgh.
 
 ### Dr Martin Houlard
-I am a senior postdoctoral researcher at the Wellcome Centre for Human Genetics.
+I am a senior postdoctoral researcher at the Centre for Human Genetics.
+
 
 ### Nikolas Baya
 <span class="image left"><img src="images/nik.png" width="160" height="220.5" /></span>
 I am a DPhil student co-supervised by Prof. Simon Myers and Prof. Cecilia Lindgren as part of the Genomic Medicine and Statistics programme. In my research I study the genetic architecture of extreme and unexpected phenotypes. I received an undergraduate degree in applied mathematics at Brown University and worked at the Broad Institute of MIT and Harvard before coming to Oxford.
 
-
-### [Lino Ferreira](https://lfe.pt)
-<span class="image left"><img src="images/lino.png" width="160" height="213" /></span>
-I am a DPhil student in the Genomic Medicine and Statistics programme. My research focuses on genetic interactions and how these can help us to better understand the genotype–phenotype map and improve the performance of polygenic scores. Prior to starting my DPhil, I completed an MSc in statistics at the University of Edinburgh.
-
-
-### Isobel Howard
-<span class="image left"><img src="images/isobel.png" width="160" height="200" /></span>
-I am a DPhil student co-supervised by Robert Davies at the Statistics department in Oxford. My research focuses on polygenic risk scores for neurological outcomes: how best they can be built; if and how they can be decomposed to elucidate different genetic disease pathways and phenotypes; and their interactions with other genetic and environmental factors. Before beginning my DPhil, I completed a bachelor’s degree in Human Sciences at Oxford followed by an MSc in Epidemiology at the London School of Hygiene and Tropical Medicine. I joined the CDT in Health Data Science based at the Big Data Institute in Oxford in September 2021.
-
-
 ### Yunong Lin
 <span class="image left"><img src="images/yunong.png" width="160" height="213" /></span>
 I am a DPhil student co-supervised by Prof. Simon Myers and Prof. Robert Davies. I am currently working on the GWAS associations of stratified cohorts. I did my MSc in statistics at University of Wisconsin-Madison, and worked as a research specialist there for a year after my graduation.
 
-
 ### Hrushikesh Loya
 <span class="image left"><img src="images/hrushi.jpg" width="160" height="213" /></span>
 I am a DPhil student in Genomic Medicine and Statistics jointly co-supervised by Prof. Simon Myers and Prof. Pier Palamara. My primary research interest involves Bayesian method development for application in statistical and population genetics. Before Oxford, I completed my bachelor's and masters in electrical engineering from IIT Bombay, India. 
-
 
 ### Brynelle Myers
 <span class="image left"><img src="images/brynelle.jpeg" width="160" height="214" /></span>
