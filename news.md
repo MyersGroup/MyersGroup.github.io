@@ -3,6 +3,9 @@ layout: page
 title: News
 ---
 
+## 12 August 2024
+Sinan's paper on building a haplotype reference panel based on the Genomics England dataset and using it to perform imputation on the UK Biobank has now been published in [Nature Genetics](https://doi.org/10.1038/s41588-024-01868-7)!
+
 ## 5 December 2023
 Lino has passed his DPhil thesis defence. Congratulations! He will be staying in the group for a little while longer working as a postdoc.
 

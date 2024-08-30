@@ -16,13 +16,8 @@ Our group is based jointly at the [Department of Statistics](https://www.stats.o
 <span class="image left"><img src="images/ipsita.png" width="160" height="224" /></span>
 I am a postdoc at the Department of Statistics, working on building models for how DNA sequence modulates and is shaped by recombination events, using chromatin accessibility and expression data from single cells undergoing meiosis. I am broadly interested in using population genetics and computational approaches to understand the biology of the processes that underlie evolution. I received my Ph.D at Columbia University, where I worked on elucidating the causes and fitness consequences of de novo mutations in humans.
 
-### [Lino Ferreira](https://lfe.pt)
-<span class="image left"><img src="images/lino.png" width="160" height="213" /></span>
-I completed my DPhil in Genomic Medicine and Statistics under Simon Myers' supervision in 2023 and currently work as a postdoctoral researcher in the group. My research focuses on genetic interactions and how these can help us to better understand the genetic basis of complex traits. Prior to starting my DPhil, I completed an MSc in statistics at the University of Edinburgh.
-
 ### Dr Martin Houlard
 I am a senior postdoctoral researcher at the Centre for Human Genetics.
-
 
 ### Nikolas Baya
 <span class="image left"><img src="images/nik.png" width="160" height="220.5" /></span>
@@ -79,6 +74,10 @@ Ran completed a postdoc working on the resolution of recombination. She is now a
 <br>
 
 ### Research students
+
+#### [Dr Lino Ferreira](https://lfe.pt)
+<span class="image left"><img src="images/lino.png" width="160" height="213" /></span>
+Lino completed a DPhil in Genomic Medicine and Statistics (2019-2023) under Simon's supervision. His research focused on genetic interactions and how these can help us to better understand the genetic basis of complex traits.
 
 #### Dr Sinan Shi
 <span class="image left"><img src="images/sinan.jpg" width="160" height="160" /></span>

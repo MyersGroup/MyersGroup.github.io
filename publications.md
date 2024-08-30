@@ -7,10 +7,6 @@ More can be found on [Google Scholar](https://scholar.google.co.uk/citations?use
 
 
 ## Preprints
-### A Genomics England haplotype reference panel and the imputation of the UK Biobank
-**Sinan Shi**, Simone Rubinacci, **Sile Hu**, Loukas Moutsianas, Alex Stuckey, Anna C Need, The Genomics England Research Consortium, Mark Caulfield, Jonathan Marchini, **Simon Myers**.
-*bioRxiv* (2023). DOI: [10.1101/2023.11.06.23298035](https://doi.org/10.1101/2023.11.06.23298035)
-
 ### Leveraging fine-scale population structure reveals conservation in genetic effect sizes between human populations across a range of human phenotypes
 **Sile Hu**, **Lino A. F. Ferreira**, **Sinan Shi**, Garrett Hellenthal,<sup>&#8224;</sup> Jonathan Marchini,<sup>&#8224;</sup> Daniel J. Lawson,<sup>&#8224;</sup> **Simon R. Myers**.<sup>&#8224;</sup>
 *bioRxiv* (2023). DOI: [10.1101/2023.08.08.552281](https://doi.org/10.1101/2023.08.08.552281)
@@ -21,6 +17,10 @@ More can be found on [Google Scholar](https://scholar.google.co.uk/citations?use
 
 
 ## Publications
+### A Genomics England haplotype reference panel and imputation of UK Biobank
+**Sinan Shi**, Simone Rubinacci, **Sile Hu**, Loukas Moutsianas, Alex Stuckey, Anna C Need, Pier Francesco Palamara, Mark Caulfield, Jonathan Marchini, **Simon Myers**.
+*Nature Genetics* (2024). DOI: [10.1038/s41588-024-01868-7](https://doi.org/10.1038/s41588-024-01868-7)
+
 ### Relating pathogenic loss-of-function mutations in humans to their evolutionary fitness costs
 **Ipsita Agarwal<sup>\*</sup>**, Zachary L. Fuller<sup>\*</sup>, **Simon R. Myers**, Molly Przeworski.
 *eLife* (2023). DOI: [10.7554/eLife.83172](https://doi.org/10.7554/eLife.83172)
